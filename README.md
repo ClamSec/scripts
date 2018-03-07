@@ -8,3 +8,4 @@ As follows are a brief description of each script:
 * pythonCat         Find the three largest text files in working directory and concatenate them. Contains sample files.
 * deduplicator.py   Implement different deduplication methods and perform basic efficiency testing.
 * steamTools.py     Find which members of a given list are on Steam.
+* stopwatch.py      Command line stopwatch.
