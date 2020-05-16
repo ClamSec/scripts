@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
 """Implements different deduplication methods and tests their efficiency."""
 import timeit

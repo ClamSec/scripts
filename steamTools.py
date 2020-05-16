@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
 """A collection of tools for interacting with the Steam Web API."""
 import sys

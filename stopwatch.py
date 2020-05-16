@@ -1,4 +1,5 @@
-#! /usr/bin/python3
+#!/usr/bin/env python3
+
 """Keep track of elapsed time."""
 
 
